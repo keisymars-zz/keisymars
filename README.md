@@ -16,10 +16,5 @@
 </p>
 
 
-
-
-
-
  [![@keisy's Holopin board](https://holopin.me/keisy)](https://holopin.io/@keisy)
-
 
