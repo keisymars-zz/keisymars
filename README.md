@@ -3,9 +3,20 @@
 <!--
 **Keisynascimento/Keisynascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<br>
+<img width="290px"src="src/img/500.gif">
 
 <br>
-   <img width="290px"src="https://user-images.githubusercontent.com/100332282/202208208-a983e396-db5b-4032-a816-5a22e311a8df.gif">
+<img width="290px"src="src/img/500.gif">
+
+
+
+<p align="center">
+<img width="900x"src="src/img/lua4.png">  
+</p>
+
+<br>
+   <img width="290px"src="src/img/500.gif">
    
  <div align="center">
  
@@ -18,8 +29,6 @@
 <img width="280px"src="https://i.pinimg.com/originals/36/36/26/363626108468d89388b7873ccacc3a92.gif">  
 </p>
 
-
- [![@keisy's Holopin board](https://holopin.me/keisy)](https://holopin.io/@keisy)
 
 
 # 💻 Tech Stack:
@@ -36,6 +45,6 @@
 
 
 <p align="right">
-<img width="3000px"src="src/img/oi.png">  
+<img width="500x"src="src/img/lua.png">  
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
