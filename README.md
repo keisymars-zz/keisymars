@@ -3,16 +3,13 @@
 <!--
 **Keisynascimento/Keisynascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<br>
-<img width="290px"src="src/img/500.gif">
-
-<br>
-<img width="290px"src="src/img/500.gif">
 
 
 
-<p align="center">
-<img width="900x"src="src/img/lua4.png">  
+<p align="right">
+   <img width="290px"src="src/img/500.gif">
+   <img width="290px"src="src/img/500.gif">
+<img width="500x"src="src/img/lua4.png">  
 </p>
 
 <br>
