@@ -4,12 +4,8 @@
 **Keisynascimento/Keisynascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-```php
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
-    }
-}
+```
+print('Hello, World!')
 ```
 
 
