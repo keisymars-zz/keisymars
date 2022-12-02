@@ -3,7 +3,7 @@ print('Hello, World!')
 ```
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4074&size=50&center=true&vCenter=true&width=1000&lines=Eae!+Suave?;Hello!;Oxente!;Hi!;Hola!;Приве́т!;Olá!;你好!;Aloha!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4074&size=50&center=true&vCenter=true&width=1000&lines=Eae!+Suave?;Hello!;Hi!;Hola!;Приве́т!;Olá!;你好!;Aloha!)](https://git.io/typing-svg)
 
 
 
